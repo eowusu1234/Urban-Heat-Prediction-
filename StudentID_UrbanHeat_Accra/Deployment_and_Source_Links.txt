@@ -1,0 +1,29 @@
+Student Name: Emmanuel Owusu
+
+Student ID: 22425075
+
+Project Title: Machine-Learning-Based Urban Heat Risk Prediction and Mitigation-Simulation Dashboard for Accra, Ghana
+
+Live Application: https://urban-heat-prediction-frontend.vercel.app/
+
+Backend API URL: https://urban-heat-backend.onrender.com
+
+Admin URL: Not Applicable (No admin panel in MVP)
+
+Test Username: Not Applicable (Public tool, no authentication)
+
+Test Password: Not Applicable
+
+Admin Username: Not Applicable
+
+Admin Password: Not Applicable
+
+Source Code Repository: https://github.com/owusu9388-spec/Urban-Heat-Prediction_Frontend.git
+
+Environment Variables:
+Frontend (Vercel):
+VITE_API_BASE_URL=https://urban-heat-backend.onrender.com
+
+Backend (Render):
+FRONTEND_ORIGIN=https://urban-heat-prediction-frontend.vercel.app
+DATABASE_URL=sqlite:///./urbanheat.db
